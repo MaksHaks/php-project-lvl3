@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '5699913ae1ca98e3099dfc27778af7b0741fdf7d',
+        'reference' => '2af2c1f99667f1f9323fb9080131aadbb84c8808',
         'name' => 'hexlet/code',
         'dev' => true,
     ),
@@ -172,7 +172,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '5699913ae1ca98e3099dfc27778af7b0741fdf7d',
+            'reference' => '2af2c1f99667f1f9323fb9080131aadbb84c8808',
             'dev_requirement' => false,
         ),
         'illuminate/auth' => array(
@@ -425,6 +425,15 @@
             'install_path' => __DIR__ . '/../laravel/tinker',
             'aliases' => array(),
             'reference' => 'dff39b661e827dae6e092412f976658df82dbac5',
+            'dev_requirement' => false,
+        ),
+        'laravel/ui' => array(
+            'pretty_version' => 'v4.0.0',
+            'version' => '4.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../laravel/ui',
+            'aliases' => array(),
+            'reference' => 'e6291e8083cb5255511eacd6da0ec078210beabd',
             'dev_requirement' => false,
         ),
         'league/commonmark' => array(
