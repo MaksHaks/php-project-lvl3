@@ -1,4 +1,4 @@
 .phpunit.result.cache
 .env
 .env.local
-/vscode
+/.vscode
