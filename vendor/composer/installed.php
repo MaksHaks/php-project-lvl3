@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '10a1f5f63db9e9378fde5b02ed257bcfc1cee67d',
+        'reference' => '5699913ae1ca98e3099dfc27778af7b0741fdf7d',
         'name' => 'hexlet/code',
         'dev' => true,
     ),
@@ -172,7 +172,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '10a1f5f63db9e9378fde5b02ed257bcfc1cee67d',
+            'reference' => '5699913ae1ca98e3099dfc27778af7b0741fdf7d',
             'dev_requirement' => false,
         ),
         'illuminate/auth' => array(
