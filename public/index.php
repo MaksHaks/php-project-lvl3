@@ -17,7 +17,7 @@ define('LARAVEL_START', microtime(true));
 */
 
 if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php')) {
-    include $maintenance;
+    require $maintenance;
 }
 
 /*
@@ -44,7 +44,7 @@ require __DIR__.'/../vendor/autoload.php';
 |
 */
 
-$app = include_once __DIR__.'/../bootstrap/app.php';
+$app = require_once __DIR__.'/../bootstrap/app.php';
 
 $kernel = $app->make(Kernel::class);
 
