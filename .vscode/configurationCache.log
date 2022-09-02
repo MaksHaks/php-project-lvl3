@@ -1,1 +1,0 @@
-{"buildTargets":["compose","compose-bash","compose-build","compose-db","compose-down","compose-setup","compose-test","console","deploy","ide-helper","lint","lint-fix","log","migrate","setup","start","start-frontend","test","test-coverage","watch"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
